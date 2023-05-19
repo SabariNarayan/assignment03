@@ -1,0 +1,58 @@
+body{
+  background-image: url(kelly-sikkema-6aY-6B3MiZ4-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  border-radius: 5px;
+    padding: 30px ;
+    text-align: center;
+    background-image: url(ryan-stone-U3cctUBucn0-unsplash.jpg);
+    background-size: cover;
+    width: 600px !important;
+    height: 300px;
+    margin: 200px;
+    font-weight: bold;
+    margin-top: 100px;
+    color: white;
+  }
+  input[type="text"],
+  input[type="password"] {
+    padding: 5px;
+    width: 200px;
+    border-radius:10px ;
+  }
+  
+  input[type="submit"] {
+    padding: 10px;
+    width: 100px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  #loginForm{
+    margin-right: 50px !important;
+  }
+  #login{
+    margin-left: 60px;
+  }
+  #head{
+    margin-top: 30px;
+    color: black;
+  }
+header{
+  background-color: rgb(255, 255, 255);
+  height: 50px;
+}
+#logo1{
+  height: 50px;
+  width: 150px;
+  margin-left: 40px;
+
+}
+#logo2{
+  height: 48px;
+  margin-left: 10px;
+}
